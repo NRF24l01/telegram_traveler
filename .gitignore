@@ -2,3 +2,4 @@ logs
 venv
 .idea
 ttoken.py
+db.sqlite3
